@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "모각코각코"
+title                    : "JwMGC"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "jwPark6"
-description              : "모각코 동아리"
+description              : "-"
 url                      : "https://jwpark6.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
